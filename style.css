@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+.Top1{
+    color: aliceblue;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 20px;
+    transition: 1s;
+
+}
+
+.lead1{
+    text-align: center;
+    margin: 3px;
+}
+.firstdiv{
+    padding-right: 0rem ;
+    padding-left: 0rem ;
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(68, 63, 73);
+    font-size: large;
+    padding: -10px;
+    width: 100rem;
+    height: 3rem;
+
+}
+.collaps{
+    color: aliceblue;
+}
+.right1{
+  
+    padding: 4px;
+    color: aliceblue;
+    text-decoration: none;
+}
+.right11{
+    padding: 2px;
+    color: white;
+    padding-left: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    position: absolute;
+    right: 200px;
+    top: 8px;
+
+}
+
+.right22{
+    padding: 1px;
+    color: aliceblue;
+    padding-left: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    position: absolute;
+    right: 110px;
+    top: 8px;
+    
+}
+.right33{
+    padding: 2px;
+    color: aliceblue;
+    padding-left: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    position: absolute;
+    right: 20px;
+    top: 8px;
+}
+
+
+.firstpage{
+    background-color: blue;
+    text-align: center;
+    padding: 3rem;
+    background-size: cover;
+    
+}
+.firstpage a{
+    font-size: 30px;
+    size: 50px;
+}
+.buttonn {
+ text-align: center;
+ text-decoration: none;
+ width:55%; color: rgb(19, 18, 18); background-color:
+        rgb(208, 208, 210); font-size: large; border-radius:6px 
+        solid #0d0d0d ; cursor: pointer  ;
+         box-sizing: border-box; padding: 11px 0 9px 10px;
+       border: 1px solid #07060b;
+       background: #dcdae3;
+       border-radius: 10px;
+transition: 1s;
+    margin: 5px;   
+       
+} 
+li:hover{
+    background-color: blue;
+    color: #dcdae3;
+    letter-spacing: 0px;
+}
+li{
+    transition: 1sn;
+    
+}
+a:hover{
+    background-color: blue;
+    color: #dcdae3;
+    letter-spacing: 4px;
+}
+.bolder{
+    margin: 1rem;
+}
+.div2{
+    position: absolute;
+    left: 30rem;
+
+    margin: 0rem 0rem;
+    font-size: 25px;
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 100%;
+    
+}
+.div2 h2{
+    position: absolute;
+    left: 31rem;
+}
+
+.lead{
+    font-size: 25px;
+    
+    position:absolute;
+    left: 31rem;
+    
+    
+}
+.aboutor{
+    padding: 10px  15rem 0rem;
+    margin: 7rem;
+    font-size: 17px;
+    cursor: pointer;
+   position: absolute;
+   left: 160px;
+    
+}  
+.div2{
+    position:absolute;
+    left: 1rem;
+    padding: 0px  10px;
+    margin: 0rem 0rem 5rem 0rem;
+}
+
+.div3{
+    margin: 25rem 15rem;
+    font-size: 25px; 
+   
+}
+
+.div4{
+    margin: 8rem;
+    padding: 0rem 375px;
+    font-size: 20px;
+
+}
+
+.divend{
+   
+    color: aliceblue;
+    
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding-left: 2rem;
+}
+*{
+    box-sizing: border-box;
+}
+
+::-webkit-scrollbar{
+    width: 11px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(15, 8, 146);
+    size: 30px;
+}
+.leader{
+    font-size: 25px;
+    margin: 5rem;
+    font-size: 25px; 
+    margin: 40px;
+    position:absolute;
+   
+    right: 100px;
+}
+.div3 h2{
+    text-align: center;
+    position:absolute;
+    left: 520px;
+   
+}
+
+
